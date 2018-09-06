@@ -1,0 +1,6 @@
+
+
+int localHostClock=5, msgClock =2;
+int result = (localHostClock >= msgClock ? localHostClock : msgClock);
+result
+(int) 5
